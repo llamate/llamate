@@ -19,19 +19,19 @@
 
 ### Hi ( _/ω＼_ )
 
-At the beginning of the year I successfully completed my apprenticeship and started my journey as a software engineer at SHE Group mainly focusing on frontend development. In the last years I've had the privilege of collaborating with diverse clients, allowing me to gain valuable experience with various frontend technologies and content management systems, including First Spirit and Pimcore. Currently I primarily work with web applications using React, TypeScript, Sass, and Styled-Components.
+Currently I mainly work on web applications using React, TypeScript, Sass, Styled-Components and First Spirit as CMS.
 
 <div align="left">
 
 ```json
 {
-  "pronouns": "she/her",
-  "name": "michelle",
-  "age": 23,
+  "pronouns": "She/Her",
+  "name": "Michelle",
+  "age": 24,
   "hobbies": {
-    "a": "junior actively learning react and typescript",
-    "b": "fun with little projects but prefer to keep my repositories private",
-    "c": "in my free time i like to play video games, watch anime, code and build my own keyboards"
+    "work": "Junior actively learning React",
+    "basic": "I'm a basic bitch liking things like gaming, anime and reading",
+    "new": "Currently learning to crochet and make pottery"
   }
 }
 ```
