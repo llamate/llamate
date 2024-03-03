@@ -1,5 +1,6 @@
 <!-- <img src="https://i.pinimg.com/originals/2c/54/88/2c5488fd350f9317df2a50afb6ae5d54.gif" width="1050" height="350"> -->
-<img src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif" width="1050" height="350">
+<!-- <img src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif" width="1050" height="350"> -->
+<img src="https://giffiles.alphacoders.com/219/219667.gif" width="1050" height="350">
 
 <div align="center">
 
@@ -19,7 +20,7 @@
 
 ### Hi ( _/ω＼_ )
 
-Currently I mainly work on web applications using React, TypeScript, Sass, Styled-Components and First Spirit as CMS.
+Currently I mainly work on web applications using React, TypeScript, Styled-Components and First Spirit as CMS.
 
 <div align="left">
 
@@ -29,9 +30,9 @@ Currently I mainly work on web applications using React, TypeScript, Sass, Style
   "name": "Michelle",
   "age": 24,
   "hobbies": {
-    "work": "Junior actively learning React",
-    "basic": "I'm a basic bitch liking things like gaming, anime and reading",
-    "new": "Currently learning to crochet and make pottery"
+    "work": "Actively learning React",
+    "basic": "I'm a basic bitch, I like things like gaming, anime and reading",
+    "interests": "Currently learning to crochet and make pottery"
   }
 }
 ```
