@@ -43,6 +43,5 @@ Currently I mainly work on web applications using React, TypeScript, Styled-Comp
 
   [![Spotify](https://img.shields.io/badge/Spotify%20-%20%231DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/mimikuu)
   [![Twitter](https://img.shields.io/badge/Twitter%20-%20%231D9BF0?style=flat&logo=twitter&logoColor=white)](https://twitter.com/misherusenpai)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michellecelinahahn)
 
 </div>
